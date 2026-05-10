@@ -7,7 +7,7 @@
 ![Chrome](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)
 ![Manifest](https://img.shields.io/badge/Manifest-V3-brightgreen)
 ![Playwright](https://img.shields.io/badge/Playwright-JS-2EAD33?logo=playwright&logoColor=white)
-![Gemini](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-8E75B2?logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-8E75B2?logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 </div>
