@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Playwright Test Recorder",
+  "version": "1.0",
+  "description": "Record browser interactions and generate Playwright JS test code",
+  "permissions": ["activeTab", "scripting", "storage", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Playwright Recorder"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
